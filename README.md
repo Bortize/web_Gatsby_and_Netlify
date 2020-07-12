@@ -7,10 +7,12 @@ First of all, the first thing you should check is that you have the following co
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 
 **Xcode**
+
 `xcode-select --install`
-acept the license --> `sudo xcodebuild -license accept'
+acept the license --> `sudo xcodebuild -license accept`
 
 **Node**
+
 'brew install node`
 update node version
 `brew install node`
