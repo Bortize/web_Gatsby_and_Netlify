@@ -4,14 +4,19 @@ Install a website with Gatsby and Netlify for free
 First of all, the first thing you should check is that you have the following components installed in your terminal
 
 **Homebrew**
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 
-Check if it's installed 
-`brew -v`
+**Xcode**
+`xcode-select --install`
+acept the license --> `sudo xcodebuild -license accept'
 
-Xcode
+**Node**
+'brew install node`
+update node version
+`brew install node`
 
-Node
+**Git**
+`brew install git`
 
-Git
-
-Npm
+**Npm**
+`npm install -g npm`
