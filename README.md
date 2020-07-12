@@ -50,7 +50,7 @@ To start using Gatsby, you just have to clone some of their templates that they 
 
 `npm run develop`
 
-5. Check that everything works correctly. access localhost:8000 and if we have followed the steps correctly the web will appear.
+5. Check that everything works correctly. access **localhost:8000** and if we have followed the steps correctly the web will appear.
 To start making modifications you must access the installation folder with visual studio code.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
