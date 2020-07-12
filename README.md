@@ -63,5 +63,7 @@ To start making modifications you must access the installation folder with visua
 4. Push
 
 2.1 Create Netlify account
+
 2.2 go to sites and click on New git site
+
 2.3 choose in continuous display the version control system you have chosen
