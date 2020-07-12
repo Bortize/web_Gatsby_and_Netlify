@@ -28,6 +28,9 @@ update node version
 
 `npm install -g npm`
 
+
+
+
 2. The next thing you do is install Gatsby. Before installing, make sure you have it installed by typing the following command in terminal
 
 `npx gatsby --help`
