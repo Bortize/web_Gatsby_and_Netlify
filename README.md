@@ -5,9 +5,8 @@ First of all, the first thing you should check is that you have the following co
 
 Homebrew
            Check if it's installed
-           
+
            brew -v
-           ```
 
 Xcode
 
