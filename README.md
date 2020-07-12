@@ -27,3 +27,12 @@ update node version
 **Npm**
 
 `npm install -g npm`
+
+2. The next thing you do is install Gatsby. Before installing, make sure you have it installed by typing the following command in terminal
+* A message may appear informing you to upgrade to a new version
+
+`npx gatsby --help`
+
+To start using Gatsby, you just have to clone some of their templates that they offer on their websites. You should do it with the following command
+
+`gatsby new hello world https://github.com/gatsby/gastby-starter-hello-world`
